@@ -4,4 +4,6 @@ My reading notes for CodeFellows
 
 Hello, jangus here...just trying to get by
 
+Growth mindset is...getting knocked down seven times, 
+
 Link to my GitHub profile https://gethub.com/TheJangus/
