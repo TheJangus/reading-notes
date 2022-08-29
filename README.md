@@ -11,4 +11,4 @@ Growth mindset is...getting knocked down seven times, dust yourself off and try 
 - You'll often pass failute on your path to success
 - Regret isn't trying and failing, regret is failing to ever try
 
-Link to my [GitHub profile] (https://gethub.com/TheJangus/)
+Link to my [GitHub profile](https://gethub.com/TheJangus/)
