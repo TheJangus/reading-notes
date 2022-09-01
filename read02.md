@@ -26,18 +26,30 @@ Anything inside qoutes is considered a single item
  ~pwd - print working directory: tells you what your current or present directory is. ~ls- list : shows what's in the current location (Ex: folders & files) ~cd - change directory path : a file or directory being referenced on the command line
 
 absolute - specify a location (file or directory) in relation to the root directory
+
 relative -specify a location (file or directory) in relation to where we currently are in the system.
+
 folders —> blue files –> gray
+
 first letter + tab ->auto complete
+
 cd + enter [takes you back to beginning]
+
 code . [opens vs code]
+
 cd .. [ go back one level] mkdir [ make directory] cd …[ go back two levels]
+
 GUI -> Graphic User Interface
 
 **Quick Reference**
 pwd - print working directory
+
 ls - list
+
 cd - change directory
+
 press tab to autofill after typing the 1st letter
+
 mkdir(space)(name of folder)
+
 code(space). goes into VS code
