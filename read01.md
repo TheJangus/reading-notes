@@ -13,7 +13,7 @@ Overview Nearly all Markdown applications support the basic syntax outlined in t
 
 Basic syntax of Mark down. Refer to link.
 
-[MD formatting rules](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax))
+[MD formatting rules](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 Explaination of correct formatting when using markdown.
 
