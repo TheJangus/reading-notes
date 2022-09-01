@@ -1,7 +1,9 @@
 **Read: 08 - Operators and Loops**
 
 && -- and
+
 || -- or
+
 !  -- not (bang)
 
 [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
