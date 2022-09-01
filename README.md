@@ -8,6 +8,6 @@
 - [Link to Class 06 notes](read06.md)
 - [Link to Class 07 notes](read07.md)
 - [Link to Class 08 notes](read08.md)
-- [Link to Random notes](randomnotes.md)
+- [Link to Random notes](random notes.md)
 
 Link to my [GitHub profile](https://gethub.com/TheJangus/)
