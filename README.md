@@ -1,15 +1,12 @@
-# reading-notes
-## My reading notes for CodeFellows
+## Table of Contents
 
-*notes go here...or something, I'm not the boss*
-
-Hello, jangus here...just trying to make it
-
-[Growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) is...getting knocked down seven times, dust yourself off and try again
-
-- You've been walking and chewing for over 30 years, yet every now and then you may trip over your feet or bite your tongue - mistakes happen
-- You'll often pass failure on your path to success
-- Regret isn't trying and failing, regret is failing to ever try
-- *"Just do it."* - ~~Nike~~  Shia LaBeouf
+- [Link to Class 01 notes](read01.md)
+- [Link to Class 02 notes](read02.md)
+- [Link to Class 03 notes](read03.md)
+- [Link to Class 04 notes](read04.md)
+- [Link to Class 05 notes](read05.md)
+- [Link to Class 06 notes](read06.md)
+- [Link to Class 07 notes](read07.md)
+- [Link to Class 08 notes](read08.md)
 
 Link to my [GitHub profile](https://gethub.com/TheJangus/)
