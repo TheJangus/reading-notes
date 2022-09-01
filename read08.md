@@ -2,9 +2,22 @@
 
 && -- and
 
-|| -- or
+"||" -- or
 
-!  -- not (bang)
+"!"  -- not (bang)
+
+a for-loop repeats until a specified condition evaluates to false
+a for-loop is generally used when we know the number of times we need it ahead of time
+
+a while-loop repeats until a specified condition evaluates to false
+used when we dont know how many times it's going to take
+
+STRUCTURE OF FOR-LOOP
+
+while(condition is true){execute this code}
+
+initial ; condition ; increment/decrement
+
 
 [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 
