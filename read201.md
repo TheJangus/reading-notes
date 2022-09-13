@@ -19,13 +19,13 @@ next, choose assests : such as theme, text, colors
 Comments: 
 Comments are snippets of text that can be added along with code. The browser ignores text marked as comments. You can write comments in JavaScript just as you can in CSS:
 
-/*
+`/*
 Everything in between is a comment.
 */
 Copy to Clipboard
 If your comment contains no line breaks, it's an option to put it behind two slashes like this:
 
-// This is a comment
+// This is a comment`
 
 1. Compose a short poem describing how HTTP sends data between computers.
 A client makes a request
@@ -39,7 +39,7 @@ from it. Hence the process is also called DOM parsing and the program that
 does that is called the DOM parser.
 
 3. How can you find images to add to a Website?
-Use the img tag <img>, then you need to specify 4 attributes:
+Use the img tag `<img>`, then you need to specify 4 attributes:
 Src - location of the image/path/site;
 Alt - the alternate text/written description;
 Width - width of the image;
@@ -78,8 +78,8 @@ includes a forward slash before the element name. This marks where the
 element ends. Failing to include a closing tag is a common beginner error
 that can produce peculiar results.
 
-3. What is the Difference between <article> and <section> element tags?
-The <section> tag defines a section in a document. The <article> tag
+3. What is the Difference between `<article>` and `<section>` element tags?
+The `<section>` tag defines a section in a document. The `<article>` tag
 specifies independent, self-contained content.
 The section tag defines sections in a document, such as chapters, headers,
 footers, or any other sections of the document.
@@ -102,22 +102,18 @@ engine's language. This helps search engines better understand the topic of
 your webpages and content. It also helps them display more relevant results
 to searchers.
 
-6. How is the <meta> HTML tag used when specifying metadata?
-Meta tags always go inside the <head> element, and are typically used to
+6. How is the `<meta>` HTML tag used when specifying metadata?
+Meta tags always go inside the `<head>` element, and are typically used to
 specify character set, page description, keywords, author of the document,
 and viewport settings.
 
-charset          character_set                 Specifies the character
-encoding for the HTML document
-content         text                                  Specifies the value
-associated with the http-equiv or name attribute
-http-equiv    content-security-policy         Provides an HTTP header for
-the information/value of the content attribute
-                      content-type
-                      default-style
-                      refresh   
-name           application-name                      Specifies a name for
-the metadata
+`charset`          character_set                    Specifies the character encoding for the HTML document
+content            text                            Specifies the value associated with the http-equiv or name attribute
+http-equiv         content-security-policy         Provides an HTTP header for the information/value of the content attribute
+                   content-type
+                   default-style
+                   refresh   
+name           application-name                      Specifies a name for the metadata
                      author
                      description
                      generator
@@ -135,10 +131,10 @@ to have a vision of what you want and how to get there
 * What needs to be done, and in what order, to reach my goals?
 
 
-1. Why should you use an <h1> element over a <span> element to display a top
+1. Why should you use an `<h1>` element over a `<span>` element to display a top
 level heading?
 Span has no semantic value; therefore it has no extra benefits - By default,
-most browser's user agent stylesheet will style an <h1> with a large font
+most browser's user agent stylesheet will style an `<h1>` with a large font
 size to make it look like a heading
 An span is an inline element
 An h1 is a block element
@@ -161,7 +157,7 @@ Any complex feature - interactive content, animated graphics, content
 updates
 
 2. How can you add JavaScript to an HTML document?
-Adding the <script> element   -- can be internal or external OR inline
+Adding the `<script>` element   -- can be internal or external OR inline
 
 
 [What is JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
