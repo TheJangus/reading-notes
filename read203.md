@@ -45,9 +45,10 @@ Left shift assignment  // x <<= f() // x = x << f()
 Logical AND assignment  // x &&= f() // x && (x = f())
 
 4. Read the code below and evaluate the last expression and explain what the result would be and why.\
-10false dog
+the result is 10dog because false is null/zero
 
 5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
-
+checking authentication on a webpage
 
 6. Give an example of when a Loop is useful in JavaScript.
+Loops allows to run a code block multiple times without having to repeat it each time.
