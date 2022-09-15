@@ -2,7 +2,7 @@
 # Class 03
 
 ## Learn HTML
-###[Ordered](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol) and [Unorderd](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul) Lists
+### [Ordered](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol) and [Unorderd](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul) Lists
 1. When should you use an `unordered list` in your HTML document?
 for grouping a collection of items that do not have a numerical ordering, and their order in the list is meaningless
 
@@ -29,7 +29,7 @@ Padding is the bubble wrap in a box, around the content, up until the box/boarde
 - margin = The margin is an invisible space around your box // can have negative
 
 ## Learn JS
-###[ Arrays. Operators and Expressions. Conditionals. Loops.]
+### [ Arrays. Operators and Expressions. Conditionals. Loops.]
 
 1. What data types can you store inside of an Array?
 values that are simple reals or integers, vectors, matrices, or other arrays. Arrays are the only way to store sequences of integers, and some functions in Stan, such as discrete distributions, require integer arguments.
