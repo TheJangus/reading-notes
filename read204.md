@@ -1,4 +1,3 @@
-
 # Class 04
 
 ## Learn HTML
@@ -19,7 +18,7 @@ readers?
 - Keep your link text as short as possible
 - Minimize instances where multiple copies of the same text are linked to different places.
 
-##CSS Layout
+## CSS Layout
 
 [CSS Layout Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
 [CSS Layout: Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
@@ -42,10 +41,29 @@ it sits on its own layer separate from everything else. This is very useful: it 
 5. What is a key difference between fixed positioning and absolute positioning?
 Absolutely positioned elements are positioned with respect to a containing block, which is the nearest positioned ancestor. If there is no positioned ancestor, the viewport will be the containing block. Elements with fixed positioning are fixed with respect to the viewport—the viewport is always their containing block. This means that you can create useful UI items that are fixed in place, like persistent navigation menus that are always visible no matter how much the page scrolls.
 
-##Learn JS
-[Functions - Reusable Blocks of Code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
 
-1. Describe the difference between a function declaration and a function invocation.
+## Learn JS
+[Functions - Reusable Blocks of
+Code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
 
+1. Describe the difference between a function declaration and a function
+invocation.
+There is no fundamental difference in how declared functions or function
+expressions work. Either form is valid However the difference between A
+functional declaration is it is immutable and cannot he changed whereas
+function expressions mathematically are mutable. The variable stays the same
+but the expression can be replaced with another one or another object.
 
 2. What is the difference between a parameter and an argument?
+A parameter is the variable listed inside the parentheses in the function
+definition. An argument is the value that is sent to the function when it is
+called.
+
+## [Reasons for Pair
+Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+1. Pick 2 benefits to pair programming and reflect on how these benefits could
+help you on your coding journey.
+- Learning / a new approach/different way of doing things/ clarity
+- Social skills / practice communication/helps make future collaborations and
+relationships
+
