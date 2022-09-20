@@ -21,6 +21,12 @@
 - [Link to Class 06 notes](read206.md)
 - [Link to Class 07 notes](read207.md)
 - [Link to Class 08 notes](read208.md)
+- [Link to Class 09 notes](read209.md)
+- [Link to Class 10 notes](read210.md)
+- [Link to Class 11 notes](read211.md)
+- [Link to Class 12 notes](read212.md)
+- [Link to Class 13 notes](read213.md)
+- [Link to Class 14 notes](read214.md)
 - [Link to Random notes 201](random-notes201.md)
 
 Link to my [GitHub profile](https://gethub.com/TheJangus/)
