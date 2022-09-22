@@ -14,7 +14,7 @@
 3. How will this topic continue to influence your long term goals?
 - well we are already getting in the good habit of checking the console for various items, and talking with a TA yesterday I was able to manipulate the pagefrom the code to 'play around with it' without messing up the code itself which i thought was helpful
 
-## [JavaScript Debugger](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools#the_javascript_debugger?
+## [JavaScript Debugger](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools#the_javascript_debugger?)
 
 1. How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development?
 - The JavaScript debugger allows you to watch the value of variables and set breakpoints, places in your code that you want to pause execution and identify the problems that prevent your code from executing properly.
