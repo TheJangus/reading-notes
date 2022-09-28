@@ -1,7 +1,6 @@
 # Reading 214
 
-## [CSS
-Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
+## [CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 
 1. What does a CSS transform allow the developer to do to an element?
 - The transform CSS property lets you rotate, scale, skew, or translate an element. It modifies the coordinate space of the CSS visual formatting model
@@ -9,8 +8,7 @@ Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 2. Provide an example of a transform and how you could see that being used on a website.
 - CSS Transform: Scale The scale() method changes the size of the target element. If we provide one argument, this increases or decreases the size of our div by a multiple of its original size.
 
-## [CSS Transitions &
-Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+## [CSS Transitions & Animations](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
 
 1.What does a CSS transition allow the developer to do to an element?
 - With CSS3 transitions you have the potential to alter the appearance and behavior of an element whenever a state change occurs, such as when it is hovered over, focused on, active, or targeted.
@@ -31,8 +29,7 @@ Can run forwards, in reverse, or alternate directions
 More difficult to use with JavaScript
 Best for creating a complex series of movements
 
-## [8 simple CSS3 transitions that will wow your
-users](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/)
+## [8 simple CSS3 transitions that will wow your users](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users/)
 
 1. What are some benefits to using CSS transitions on websites?
 - CSS transitions offer you a way to create simple animations that always start as the result of triggering a CSS property change. Transitions can animate only between a start and end state, and each state is controlled by existing CSS property values. CSS animations provide a bit more control. They allow for the creation of multiple keyframes
