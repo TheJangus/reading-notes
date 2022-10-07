@@ -29,4 +29,21 @@
 - [Link to Class 14 notes](read214.md)
 - [Link to Random notes 201](random-notes201.md)
 
+# CODE 301 Reading Notes
+- [Link to Class 01 notes](read301.md)
+- [Link to Class 02 notes](read302.md)
+- [Link to Class 03 notes](read303.md)
+- [Link to Class 04 notes](read304.md)
+- [Link to Class 05 notes](read305.md)
+- [Link to Class 06 notes](read306.md)
+- [Link to Class 07 notes](read307.md)
+- [Link to Class 08 notes](read308.md)
+- [Link to Class 09 notes](read309.md)
+- [Link to Class 10 notes](read310.md)
+- [Link to Class 11 notes](read311.md)
+- [Link to Class 12 notes](read312.md)
+- [Link to Class 13 notes](read313.md)
+- [Link to Class 14 notes](read314.md)
+- [Link to Random notes 201](random-notes201.md)
+
 Link to my [GitHub profile](https://gethub.com/TheJangus/)
