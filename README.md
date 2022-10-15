@@ -1,7 +1,8 @@
+# Reading Notes
 ## Table of Contents
 
 
-# CODE 102 Reading Notes
+## CODE 102  Intro to Software Development
 - [Link to Class 01 notes](read01.md)
 - [Link to Class 02 notes](read02.md)
 - [Link to Class 03 notes](read03.md)
@@ -12,7 +13,7 @@
 - [Link to Class 08 notes](read08.md)
 - [Link to Random notes 102](random-notes.md)
 
-# CODE 201 Reading Notes
+## CODE 201 Foundations of Software Development
 - [Link to Class 01 notes](read201.md)
 - [Link to Class 02 notes](read202.md)
 - [Link to Class 03 notes](read203.md)
@@ -29,7 +30,7 @@
 - [Link to Class 14 notes](read214.md)
 - [Link to Random notes 201](random-notes201.md)
 
-# CODE 301 Reading Notes
+## CODE 301 Intermediate Software Development
 - [Link to Class 01 notes](read301.md)
 - [Link to Class 02 notes](read302.md)
 - [Link to Class 03 notes](read303.md)
@@ -44,6 +45,8 @@
 - [Link to Class 12 notes](read312.md)
 - [Link to Class 13 notes](read313.md)
 - [Link to Class 14 notes](read314.md)
-- [Link to Random notes 201](random-notes201.md)
+- [Link to Random notes 301](random-notes301.md)
+
+## CODE 401 Advanced Software Development - Python
 
 Link to my [GitHub profile](https://gethub.com/TheJangus/)
