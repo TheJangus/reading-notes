@@ -1,4 +1,4 @@
-##[Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
+## [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
 1. What is a “component”?
 - A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
@@ -23,7 +23,7 @@
 - System maintenance and evolution − Easy to change and update the implementation without affecting the rest of the system.
 - Independent − Independency and flexible connectivity of components. Independent development of components by different group in parallel. Productivity for the software development and future software development.
 
-##[What is Props and How to Use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0?gi=81c8028e1798#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
+## [What is Props and How to Use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0?gi=81c8028e1798#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
 
 1. What is “props” short for?
 - “Props” is a special keyword in React, which stands for properties 
