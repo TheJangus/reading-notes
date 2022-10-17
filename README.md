@@ -1,7 +1,7 @@
-# Reading Notes
-## Table of Contents
 
-
+# Table of Contents
+  
+   
 ## CODE 102  Intro to Software Development
 - [Link to Class 01 notes](read01.md)
 - [Link to Class 02 notes](read02.md)
