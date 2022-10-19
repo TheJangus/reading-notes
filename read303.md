@@ -1,4 +1,4 @@
-## [React Docs - lists and keys](Caution-https://reactjs.org/docs/lists-and-keys.html < Caution-https://reactjs.org/docs/lists-and-keys.html > )
+## [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
 
 1.      What does .map() return?
 - map() function returns a map object(which is an iterator) of the results after applying the given function to each item of a given iterable (list, tuple etc.)
@@ -12,7 +12,7 @@
 4.      What is the purpose of a key?
 - Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity:
 
-## [The Spread Operator](Caution-https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab < Caution-https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab > )
+## [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 
 1.      What is the spread operator?
 - the use of an ellipsis of three dots (…) to expand an iterable object into the list of arguments.
@@ -40,7 +40,7 @@
 ## Videos
 
 
-## [How to Pass Functions Between Components](Caution-https://www.youtube.com/watch?v=c05OL7XbwXU < Caution-https://www.youtube.com/watch?v=c05OL7XbwXU > )
+## [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
 1.      In the video, what is the first step that the developer does to pass functions between components?
 - create the function where the state is located that we are going to change
@@ -67,7 +67,7 @@ Pass it again to parent - pass it like a prop
 ## Bookmark and Review
 
 
-[React Tutorial through ‘Declaring a Winner’] (Caution-https://reactjs.org/tutorial/tutorial.html < Caution-https://reactjs.org/tutorial/tutorial.html > )
+[React Tutorial through ‘Declaring a Winner’] (https://reactjs.org/tutorial/tutorial.html)
 
 
-[React Docs - Lifting State Up] (Caution-https://reactjs.org/docs/lifting-state-up.html < Caution-https://reactjs.org/docs/lifting-state-up.html > )
+[React Docs - Lifting State Up] (https://reactjs.org/docs/lifting-state-up.html)
