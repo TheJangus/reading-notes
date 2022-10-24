@@ -44,6 +44,6 @@
 - One person acts as the "Navigator" = uses words to guide the driver along the route, with the ideas, and scanning for any mistakes
 
 ## Bookmark and Review
-- [Geocoding API Docs] (https://locationiq.com/)
-- [Axios docs] (https://www.npmjs.com/package/axios)
-- [MDN async and await] (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
+- [Geocoding API Docs](https://locationiq.com/)
+- [Axios docs](https://www.npmjs.com/package/axios)
+- [MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
