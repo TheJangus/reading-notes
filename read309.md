@@ -22,3 +22,16 @@
 
 # Videos
 ## [Node JS Tutorial for Beginners #6 - Modules and require()](https://www.youtube.com/watch?v=xHLd36QoS4k)
+
+1. What is a module?
+- A module is any file or directory in the node_modules directory that can be loaded by the Node. js require() function
+- another JS file...
+
+2. What does the word ‘require’ do?
+- require() is used to consume modules. It allows you to include modules in your app. You can add built-in core Node. js modules, community-based modules (node_modules), and local modules too.
+
+3. How do we bring another module into the file the we are working in?
+- in the module, explicitly say what you want available outside of the module
+
+4. What do we have to do to make a module available?
+- module.exports = 'name of property'
